@@ -4,7 +4,7 @@ repo: upptime-check # The name of this repository
 
 sites:
   - name: KuroWrt
-    url: http://kurox.cn:7080/cgi-bin/luci/
+    url: http://kurox.cn:7080
 
 
 
